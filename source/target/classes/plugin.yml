@@ -1,0 +1,9 @@
+name: GmR
+version: '1.0'
+main: me.fr3ckzdk.asiii.gmrjava.GmrJava
+api-version: 1.8
+authors: [ Fr3ckz, Asiii ]
+description: GmR Officielt plugin, lavet til SA
+commands:
+  gmr:
+    description: GmR kommando

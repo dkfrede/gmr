@@ -1,0 +1,18 @@
+#---------------------------------
+# Plugin udviklet af
+# Asi_777 & Bert1lFr3ckz
+#---------------------------------
+
+# Slå gmr til of fra
+disable-gmr: false
+
+# Skriv din staff permission her, som der får alerts, og kan reload configen
+# Staff permission er også en pass-thru
+staff-permission: staff.gmr
+
+# Pass thru perm, har en spiller denne perm vil han komme direkte igennem vores filter
+pass-thru: pass.thru
+
+warning1: true # Skal folk med 1 warning, have ban? 1 Warning kunne være, grimt sprog, racisme, nazisme, etc.
+warning2: true # Skal folk med 2 warnings have ban? 2 Warnings kunne være, auto clicker, macro, etc
+warning3: true # Skal folk med 3 warnings have ban? 3 Warnings kunne være, hacking, opfordring til selvmord, etc.
