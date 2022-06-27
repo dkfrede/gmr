@@ -1,2 +1,1 @@
-# gmr
-GmR (Gør Minecraft Rent)
+## GMR
